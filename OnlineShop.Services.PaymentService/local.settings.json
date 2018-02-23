@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "AzureWebJobsDashboard": "",
+    "TableStorage": "",
+    "ServiceBusConnectionString": "",
+    "PaymentProcessedTopicName": "paymentprocessedtopic"
+  },
+  "Host": {
+    "LocalHttpPort": 7073
+  }
+}

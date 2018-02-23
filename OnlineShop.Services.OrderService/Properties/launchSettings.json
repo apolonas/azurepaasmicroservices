@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OnlineShop.Services.OrderService": {
+      "commandName": "Project",
+      "commandLineArgs": "host start --pause-on-error --nodeDebugPort 7071"
+    }
+  }
+}

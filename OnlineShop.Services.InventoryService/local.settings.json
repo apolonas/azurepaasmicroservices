@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "AzureWebJobsDashboard": "",
+    "TableStorage": "",
+    "ServiceBusConnectionString": "",
+    "InventoryCheckedTopicName": "inventorycheckedtopic"
+  },
+  "Host": {
+    "LocalHttpPort": 7072
+  }
+}
